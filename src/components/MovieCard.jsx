@@ -36,7 +36,6 @@ const MovieCard = ({ movie }) => {
               s <= rating ? "text-yellow-400" : "text-gray-600"
             }`}
           >
-            ★
           </span>
         ))}
       </div>
